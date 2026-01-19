@@ -1,4 +1,4 @@
-oracle-tracker-backend
-├── gunicorn app.py
+oracle-tracker-backend/
+├── app.py
 ├── requirements.txt
 └── README.md
